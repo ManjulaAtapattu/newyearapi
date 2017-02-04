@@ -1,0 +1,9 @@
+C:\Projects\newyearapi\NewYearApi\Dal\bin\Debug\Dal.dll.config
+C:\Projects\newyearapi\NewYearApi\Dal\bin\Debug\Dal.dll
+C:\Projects\newyearapi\NewYearApi\Dal\bin\Debug\Dal.pdb
+C:\Projects\newyearapi\NewYearApi\Dal\bin\Debug\EntityFramework.dll
+C:\Projects\newyearapi\NewYearApi\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\newyearapi\NewYearApi\Dal\bin\Debug\EntityFramework.xml
+C:\Projects\newyearapi\NewYearApi\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\newyearapi\NewYearApi\Dal\obj\Debug\Dal.dll
+C:\Projects\newyearapi\NewYearApi\Dal\obj\Debug\Dal.pdb
